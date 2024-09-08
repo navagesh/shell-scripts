@@ -10,4 +10,4 @@ echo "second value : ${FRUITS[1]}"
 
 echo "third value : ${FRUITS[2]}"
 
-echo "all givn fruits : ${FRUITS[@]}"
+echo "all given fruits : ${FRUITS[@]}"
