@@ -2,6 +2,7 @@
 
 NUMBER=$1
 if [ $NUMBER -gt 100 ]
+then
 echo " given number is greterthen 20."
 
 else
