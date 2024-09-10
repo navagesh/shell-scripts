@@ -1,6 +1,7 @@
 #!/bin/bash
 
-if ($1 -gt 100) {
+NUMBER=$1
+if [ $NUMBER -gt 100 ]   {
 echo " given number is greterthen 20."
 
 }
